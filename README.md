@@ -1,4 +1,4 @@
-#Tabs
+Tabs
 
 Made tabs for site. Applied delegating events to a handler.
 
